@@ -1,0 +1,6 @@
+requests
+torch
+torchaudio
+torchvision
+google-cloud-storage
+python-dotenv
